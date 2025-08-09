@@ -7,4 +7,4 @@ The workflow includes:
 2. Tokenizing and cleaning the text
 3. Preparing features for future machine learning models
 
-The dataset is stored in a ZIP file, where each folder represents a label/category (Unzip articles.zip for running the code).
+The dataset is stored in a ZIP file, where each folder represents a label/category (Unzip Articles.zip for running the code).
